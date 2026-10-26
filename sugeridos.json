@@ -1,0 +1,95 @@
+{
+  "_nota": "Los newsletters que lee el autor del skill. Son opcionales: el kickoff te pregunta si querés sumarlos. 'remitentes' acepta mails completos o dominios con @ adelante. 'tipo' ordena el diario: noticias | tech-ai | negocio | ideas.",
+  "fuentes": [
+    {
+      "slug": "nyt",
+      "nombre": "NYT · The Morning",
+      "tipo": "noticias",
+      "idioma": "en",
+      "remitentes": ["nytdirect@nytimes.com"],
+      "que_es": "El resumen diario del New York Times: lo grande del mundo en 10 minutos.",
+      "suscribirse": "https://www.nytimes.com/newsletters/morning-briefing"
+    },
+    {
+      "slug": "intrigue",
+      "nombre": "International Intrigue",
+      "tipo": "noticias",
+      "idioma": "en",
+      "remitentes": ["newsletter@internationalintrigue.io"],
+      "que_es": "Geopolítica en formato corto, escrita por ex diplomáticos.",
+      "suscribirse": "https://internationalintrigue.io"
+    },
+    {
+      "slug": "cenital",
+      "nombre": "Cenital",
+      "tipo": "noticias",
+      "idioma": "es",
+      "remitentes": ["@cenital.com"],
+      "que_es": "Periodismo argentino: política, economía y mundo, con newsletters por tema.",
+      "suscribirse": "https://cenital.com/newsletters/"
+    },
+    {
+      "slug": "every",
+      "nombre": "Every",
+      "tipo": "tech-ai",
+      "idioma": "en",
+      "remitentes": ["hello@every.to"],
+      "que_es": "Ensayos sobre AI, productividad y cómo cambia el trabajo.",
+      "suscribirse": "https://every.to"
+    },
+    {
+      "slug": "tldr",
+      "nombre": "TLDR",
+      "tipo": "tech-ai",
+      "idioma": "en",
+      "remitentes": ["dan@tldrnewsletter.com", "@tldrnewsletter.com"],
+      "que_es": "Las noticias de tecnología del día, un renglón cada una.",
+      "suscribirse": "https://tldr.tech"
+    },
+    {
+      "slug": "bensbites",
+      "nombre": "Ben's Bites",
+      "tipo": "tech-ai",
+      "idioma": "en",
+      "remitentes": ["bensbites@substack.com"],
+      "que_es": "Lo nuevo en herramientas de AI, para el que las usa en el trabajo.",
+      "suscribirse": "https://www.bensbites.com"
+    },
+    {
+      "slug": "aisecret",
+      "nombre": "AI Secret",
+      "tipo": "tech-ai",
+      "idioma": "en",
+      "remitentes": ["newsletter@aisecret.us"],
+      "que_es": "Noticias y lanzamientos de AI, resumidos.",
+      "suscribirse": "https://aisecret.us"
+    },
+    {
+      "slug": "ruben",
+      "nombre": "Ruben Hassid",
+      "tipo": "tech-ai",
+      "idioma": "en",
+      "remitentes": ["ruben@substack.com"],
+      "que_es": "Cómo usar AI en serio, con prompts y ejemplos concretos.",
+      "suscribirse": "https://ruben.substack.com"
+    },
+    {
+      "slug": "lenny",
+      "nombre": "Lenny's Newsletter",
+      "tipo": "negocio",
+      "idioma": "en",
+      "remitentes": ["lenny@substack.com"],
+      "que_es": "Producto, crecimiento y carrera, con datos de empresas reales.",
+      "suscribirse": "https://www.lennysnewsletter.com"
+    },
+    {
+      "slug": "farnam",
+      "nombre": "Farnam Street",
+      "tipo": "ideas",
+      "idioma": "en",
+      "remitentes": ["newsletter@farnamstreetblog.com"],
+      "que_es": "Modelos mentales y cómo pensar mejor. Sale los domingos.",
+      "suscribirse": "https://fs.blog/newsletter/"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Los datos del usuario viven en ~/.diario-del-sabado/, nunca acá.
+/state/
+/ediciones/
+/config.json
+/fuentes.json
+/perfil.md
